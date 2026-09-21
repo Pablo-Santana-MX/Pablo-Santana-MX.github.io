@@ -2,9 +2,10 @@
 layout: page
 title: Agritech Decision Engine
 description: Digital Twin and prescriptive optimization engine to maximize hydroponic crop yield.
-img: assets/img/agritech_thumb.jpg
 importance: 1
-category: Machine Learning & Dashboards
+category: "Machine Learning & Dashboards"
+github: https://github.com/Pablo-Santana-MX/hydroponics-yield-optimization
+img: assets/img/agritech_thumb.jpg
 ---
 
 **From Prediction to Prescription.** 
