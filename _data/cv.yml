@@ -11,11 +11,10 @@
       value: Mérida, Yucatán, Mexico
 
 - title: Professional Summary
-  type: details
+  type: info
   contents:
-    - title: 
-      contents:
-        - Chemical Engineer with 16+ years of expertise in quality assurance, analytical chemistry, and precision instrumentation[cite: 10]. Currently excelling as a Chemistry & Lab Data Specialist at TELUS Digital, validating AI-generated molecular structures and refining safety protocols[cite: 10]. Holds an M.Sc. in Sciences, alongside advanced certifications in Data Analytics, Artificial Intelligence, and HACCP compliance[cite: 10, 13, 14]. A highly adaptable, detail-oriented professional with a proven track record in cross-functional collaboration and international mobility, bridging the gap between raw chemical data and automated technological solutions[cite: 10].
+    - name: Profile
+      value: Chemical Engineer with 16+ years of expertise in quality assurance, analytical chemistry, and precision instrumentation. Currently excelling as a Chemistry & Lab Data Specialist at TELUS Digital, validating AI-generated molecular structures and refining safety protocols. Holds an M.Sc. in Sciences, alongside advanced certifications in Data Analytics, Artificial Intelligence, and HACCP compliance. A highly adaptable, detail-oriented professional with a proven track record in cross-functional collaboration and international mobility, bridging the gap between raw chemical data and automated technological solutions.
 
 - title: Experience
   type: time_table
@@ -24,29 +23,29 @@
       institution: TELUS Digital
       year: Feb 2026 - Present
       description:
-        - Validate AI-generated chemical formulas and molecular structures for accuracy and compliance[cite: 10].
-        - Audit and refine safety protocols for automated chemical recommendations[cite: 10].
-        - Structure and manage complex experimental datasets to optimize machine learning model training[cite: 10].
-        - Translate advanced chemical concepts into accessible insights for non-technical stakeholders[cite: 10].
+        - Validate AI-generated chemical formulas and molecular structures for accuracy and compliance.
+        - Audit and refine safety protocols for automated chemical recommendations.
+        - Structure and manage complex experimental datasets to optimize machine learning model training.
+        - Translate advanced chemical concepts into accessible insights for non-technical stakeholders.
     - title: Quality Control Laboratory Analyst
       institution: A.S.T.M. - Mérida, Mexico
       year: Jan 2024 - Jan 2026
       description:
-        - Executed rigorous quality control protocols in strict adherence to ASTM and NMX standards[cite: 10].
-        - Spearheaded process improvements that successfully reduced non-conformities by 12%[cite: 10].
-        - Performed comprehensive physicochemical testing and maintained calibration of high-precision analytical instrumentation[cite: 10].
+        - Executed rigorous quality control protocols in strict adherence to ASTM and NMX standards.
+        - Spearheaded process improvements that successfully reduced non-conformities by 12%.
+        - Performed comprehensive physicochemical testing and maintained calibration of high-precision analytical instrumentation.
     - title: Quality Control & Process Technician
       institution: United Bakery Manufacturers - Ontario, Canada
       year: Oct 2021 - Oct 2023
       description:
-        - Managed sampling programs and ensured strict compliance with Good Manufacturing Practices (GMP)[cite: 10].
-        - Authored technical documentation and facilitated operational communication across English-speaking teams[cite: 10].
+        - Managed sampling programs and ensured strict compliance with Good Manufacturing Practices (GMP).
+        - Authored technical documentation and facilitated operational communication across English-speaking teams.
     - title: R&D Master's Researcher
       institution: CINVESTAV Unidad Mérida
       year: Jan 2018 - Sep 2021
       description:
-        - Led advanced material characterization utilizing FESEM, XRD, FTIR, and Raman spectroscopy[cite: 10].
-        - Collaborated on international research projects, delivering high-impact scientific insights[cite: 10].
+        - Led advanced material characterization utilizing FESEM, XRD, FTIR, and Raman spectroscopy.
+        - Collaborated on international research projects, delivering high-impact scientific insights.
 
 - title: Education
   type: time_table
@@ -81,14 +80,14 @@
   type: list
   contents:
     - name: Technical Skills
-      value: Python, SPSS, Data Analytics, Analytical Instrumentation (Calibration & Validation), Quality Assurance (QA/QC)[cite: 10]
+      value: Python, SPSS, Data Analytics, Analytical Instrumentation (Calibration & Validation), Quality Assurance (QA/QC)
     - name: Core Competencies
-      value: Cross-functional Team Leadership, Effective Communication, Adaptability, Proactive Problem Solving[cite: 10]
+      value: Cross-functional Team Leadership, Effective Communication, Adaptability, Proactive Problem Solving
 
 - title: Languages
   type: list
   contents:
     - name: English
-      value: C1 (Full Professional Proficiency)[cite: 10]
+      value: C1 (Full Professional Proficiency)
     - name: Spanish
-      value: Native[cite: 10]
+      value: Native
