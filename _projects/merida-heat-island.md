@@ -15,7 +15,7 @@ Urban areas retain heat differently than their rural surroundings. This project 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="[AQUI_PEGA_TU_URL_PUBLICA_DE_STREAMLIT](https://proyecto-temperaturas-merida-ldenvfepjjs7uq5s3wbzsx.streamlit.app/)" width="100%" height="750px" frameborder="0" style="border-radius: 8px; border: 1px solid #ddd; background-color: #ffffff;"></iframe>
+        <iframe src="https://proyecto-temperaturas-merida-ldenvfepjjs7uq5s3wbzsx.streamlit.app/" width="100%" height="750px" frameborder="0" style="border-radius: 8px; border: 1px solid #ddd; background-color: #ffffff;"></iframe>
     </div>
 </div>
 
