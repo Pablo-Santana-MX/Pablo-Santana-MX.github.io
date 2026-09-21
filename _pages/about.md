@@ -2,27 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist | Predictive Modeling & Complex Systems
+subtitle: <a href='#'>Chemistry & Lab Data Specialist</a> | PhD Candidate in Marine Sciences | Data Scientist
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true 
+  image_circular: false # cambia a true si prefieres que tu foto sea redonda
   more_info: >
     <p>Mérida, Yucatán, MX</p>
+    <p>pablo.santana@outlook.com</p>
 
 news: false
-latest_posts: false
 selected_papers: true
 social: true
 ---
 
-Based in Mérida, Yucatán, I am a Data Scientist focused on transforming mathematical complexity into interactive business tools and strategic intelligence.
+Bridging the gap between applied physical sciences and advanced decision intelligence.
 
-I architect analytical solutions that span across retail inventory optimization, supply chain forecasting, climate dynamics, and complex physical systems. My core objective is bridging the gap between raw data and tangible operational impact, delivering actionable insights for decision-makers.
+I am a Chemical Engineer, Data Scientist, and PhD Candidate in Marine Sciences with over 16 years of expertise in analytical chemistry, quality assurance, and computational modeling. Currently, I work as a **Chemistry & Lab Data Specialist at TELUS Digital**, where I validate AI-generated molecular structures, audit safety protocols, and architect complex experimental datasets to optimize machine learning models.
 
-My technical stack is centered around **Python** and **Machine Learning**. I design robust data pipelines, evaluate advanced regression and time-series algorithms, and deploy production-ready models through interactive dashboards, enabling stakeholders to explore real-time projections and forecasting scenarios.
+My career is defined by the rigorous translation of raw physical data into mathematical optimization and actionable insights. My professional journey spans across diverse highly technical domains: from leading advanced material characterizations using FESEM, XRD, and Raman spectroscopy, to modeling quantum vortex annihilations and JWST protostar dynamics.
 
-Beyond business intelligence, I leverage data science to model complex environments—from urban heat island effects using ERA5 climate data to quantum phenomena—maintaining a rigorous analytical approach across diverse domains.
+Beyond laboratory research, I apply the Scientific Method to business and industrial operations. I build end-to-end predictive and prescriptive analytics pipelines—such as Agritech digital twins and dynamic retail sales optimization engines—leveraging machine learning ensembles, explainable AI (SHAP), and linear programming (PuLP). 
 
-When I am not optimizing algorithms, I keep my logic sharp through continuous coding challenges, play chess, and explore the mathematical foundations of quantum phenomena.
- 
+Backed by international experience in Canada and advanced certifications in Artificial Intelligence and Data Analytics from Google, I am passionate about transforming complex systems into automated, highly efficient technological solutions.
+
+Feel free to explore my [projects](/projects/), read my peer-reviewed [publications](/publications/), or review my [CV](/cv/).
