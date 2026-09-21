@@ -2,9 +2,9 @@
 layout: page
 title: Mérida Urban Heat Island Dashboard
 description: Interactive Python/Streamlit dashboard analyzing historical temperature trends in Mérida (1950-2026) using ERA5 climate data.
-importance: 1
+importance: 3
 category: "Machine Learning & Dashboards"
-github: Pablo-Santana-MX/proyecto-temperaturas-merida
+github: https://github.com/Pablo-Santana-MX/proyecto-temperaturas-merida (https://github.com/Pablo-Santana-MX/proyecto-temperaturas-merida)
 ---
 
 ## 🌡️ The Urban Heat Island Phenomenon
