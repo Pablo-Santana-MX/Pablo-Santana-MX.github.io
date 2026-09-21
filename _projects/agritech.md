@@ -4,7 +4,7 @@ title: Agritech Decision Engine
 description: Digital Twin and prescriptive optimization engine to maximize hydroponic crop yield.
 img: assets/img/agritech_thumb.jpg
 importance: 1
-category: work
+category: Machine Learning & Dashboards
 ---
 
 **From Prediction to Prescription.** 
@@ -33,6 +33,6 @@ Traditional hydroponic systems often experience crop losses due to non-linear cl
 <!-- Make sure to upload your infographic image to the assets/img/ folder of your portfolio repo -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/agritech_infographic.jpg" title="Agritech Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/agritech_infographic.png" title="Agritech Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
