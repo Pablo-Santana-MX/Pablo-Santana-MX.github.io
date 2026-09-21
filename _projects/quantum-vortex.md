@@ -4,7 +4,8 @@ title: Quantum Vortex Annihilation
 description: Numerical simulation of quantum vortex annihilation in Bose-Einstein condensates featuring imaginary-time relaxation and multi-panel visualization.
 importance: 1
 category: "Physics & Complex Systems"
-github: Pablo-Santana-MX/quantum-vortex-annihilation
+github: https://github.com/Pablo-Santana-MX/quantum-vortex-annihilation
+img: assets/img/quantum_thumb.jpg
 ---
 
 ## 🌌 Modeling Quantum Dynamics
