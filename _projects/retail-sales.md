@@ -4,7 +4,8 @@ title: Retail Sales Optimization
 description: Predictive modeling and inventory optimization for the retail sector.
 importance: 3
 category: "Machine Learning & Dashboards"
-github: Pablo-Santana-MX/retail-sales-optimization
+github: https://github.com/Pablo-Santana-MX/retail-sales-optimization
+img: assets/img/retail_thumb.jpg
 ---
 
 ## 🛒 Predictive Analytics for Retail
