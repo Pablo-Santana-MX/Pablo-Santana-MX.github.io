@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Chemistry & Lab Data Specialist</a> | PhD Candidate in Marine Sciences | Data Scientist
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # cambia a true si prefieres que tu foto sea redonda
+  image_circular: true # cambia a true si prefieres que tu foto sea redonda
   more_info: >
-    <p>Mérida, Yucatán, MX</p>
-    <p>pablo.santana@outlook.com</p>
+    <p> Mérida, Yucatán, MX</p>
+    <p> pablo.santana@outlook.com</p>
 
 news: false
 selected_papers: true
