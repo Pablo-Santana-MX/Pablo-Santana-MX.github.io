@@ -5,6 +5,7 @@ description: Interactive Python/Streamlit dashboard analyzing historical tempera
 importance: 3
 category: "Machine Learning & Dashboards"
 github: https://github.com/Pablo-Santana-MX/proyecto-temperaturas-merida (https://github.com/Pablo-Santana-MX/proyecto-temperaturas-merida)
+img: assets/img/merida_thumb.png
 ---
 
 ## 🌡️ The Urban Heat Island Phenomenon
