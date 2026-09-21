@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Showcasing advanced mathematical modeling, data analytics, and computational simulations.
 nav: true
 nav_order: 3
 display_categories: ["Machine Learning & Dashboards", "Physics & Complex Systems"]
