@@ -33,6 +33,6 @@ Traditional hydroponic systems often experience crop losses due to non-linear cl
 <!-- Make sure to upload your infographic image to the assets/img/ folder of your portfolio repo -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-     <img src="https://raw.githubusercontent.com/Pablo-Santana-MX/Pablo-Santana-MX.github.io/main/assets/img/agritech_infographic.jpg" alt="Arquitectura Agritech" class="img-fluid rounded z-depth-1" style="width: 100%;">
+     <img src="https://raw.githubusercontent.com/Pablo-Santana-MX/Pablo-Santana-MX.github.io/main/assets/img/agritech_infographic.png" alt="Arquitectura Agritech" class="img-fluid rounded z-depth-1" style="width: 100%;">
     </div>
 </div>
