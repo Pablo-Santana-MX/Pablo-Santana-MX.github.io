@@ -4,7 +4,8 @@ title: Mall Customer Segmentation
 description: Data analysis and unsupervised learning clustering for customer profiling.
 importance: 4
 category: "Machine Learning & Dashboards"
-github: Pablo-Santana-MX/Mall-Customer-Segmentation-DATA-ANALYSIS
+github: https://github.com/Pablo-Santana-MX/Mall-Customer-Segmentation-DATA-ANALYSIS
+img: assets/img/segmentation_thumb.jpg
 ---
 
 ## 👥 Behavioral Segmentation
