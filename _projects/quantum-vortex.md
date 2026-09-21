@@ -9,7 +9,7 @@ img: assets/img/quantum_thumb.jpg
 ---
 
 ## 🌌 Modeling Quantum Dynamics
-Data analysis extends far beyond standard business metrics. This project tackles the numerical simulation of quantum vortex annihilation within Bose-Einstein condensates, a challenge that demands rigorous mathematical precision and computational optimization.
+Data analysis extends far beyond standard business metrics. This project tackles the numerical simulation of quantum vortex annihilation within Bose-Einstein condensates. 
 
 ## 🧠 Architecture & Methodology
 *   **Simulation Engine:** Utilizing Python's scientific stack to implement imaginary-time relaxation techniques and automated vortex imprinting.
