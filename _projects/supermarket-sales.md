@@ -4,7 +4,8 @@ title: Dynamic Sales Prediction Engine
 description: End-to-end decision intelligence platform combining Meta's Prophet forecasting and PuLP linear optimization for retail inventory.
 importance: 2
 category: "Machine Learning & Dashboards"
-github: https://github.com/Pablo-Santana-MX/supermarket-sales-prediction (https://github.com/Pablo-Santana-MX/supermarket-sales-prediction)
+github: https://github.com/Pablo-Santana-MX/supermarket-sales-prediction
+img: assets/img/supermarket_thumb.jpg
 ---
 
 ## 🛒 End-to-End Decision Intelligence
