@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Pablo Alberto Santana Flores",
+    "label": "Chemical Data Specialist & QA Engineer",
+    "email": "pablo.santana@outlook.com",
+    "location": {
+      "city": "Mérida",
+      "region": "Yucatán",
+      "countryCode": "MX"
+    },
+    "summary": "Chemical Engineer, Data Scientist, and PhD Candidate in Marine Sciences, with 16+ years of expertise in quality assurance, analytical chemistry, and precision instrumentation. Currently excelling as a Chemistry & Lab Data Specialist at TELUS Digital, validating AI-generated molecular structures and refining safety protocols. Holds an M.Sc. in Sciences, alongside advanced certifications in Data Analytics, Artificial Intelligence, and HACCP compliance. A highly adaptable, detail-oriented professional with a proven track record in cross-functional collaboration and international mobility, bridging the gap between raw chemical data and automated technological solutions."
+  },
+  "work": [
+    {
+      "name": "TELUS Digital",
+      "position": "Chemistry & Lab Data Specialist",
+      "startDate": "2026-02-01",
+      "highlights": [
+        "Validate AI-generated chemical formulas and molecular structures for accuracy and compliance.",
+        "Audit and refine safety protocols for automated chemical recommendations.",
+        "Structure and manage complex experimental datasets to optimize machine learning model training.",
+        "Translate advanced chemical concepts into accessible insights for non-technical stakeholders."
+      ]
+    },
+    {
+      "name": "A.S.T.M. - Mérida, Mexico",
+      "position": "Quality Control Laboratory Analyst",
+      "startDate": "2024-01-01",
+      "endDate": "2026-01-01",
+      "highlights": [
+        "Executed rigorous quality control protocols in strict adherence to ASTM and NMX standards.",
+        "Spearheaded process improvements that successfully reduced non-conformities by 12%.",
+        "Performed comprehensive physicochemical testing and maintained calibration of high-precision analytical instrumentation."
+      ]
+    },
+    {
+      "name": "United Bakery Manufacturers - Ontario, Canada",
+      "position": "Quality Control & Process Technician",
+      "startDate": "2021-10-01",
+      "endDate": "2023-10-01",
+      "highlights": [
+        "Managed sampling programs and ensured strict compliance with Good Manufacturing Practices (GMP).",
+        "Authored technical documentation and facilitated operational communication across English-speaking teams."
+      ]
+    },
+    {
+      "name": "CINVESTAV Unidad Mérida",
+      "position": "R&D Master's Researcher",
+      "startDate": "2018-01-01",
+      "endDate": "2021-09-01",
+      "highlights": [
+        "Led advanced material characterization utilizing FESEM, XRD, FTIR, and Raman spectroscopy.",
+        "Collaborated on international research projects, delivering high-impact scientific insights."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "CINVESTAV Unidad Mérida",
+      "studyType": "PhD Candidate in Marine Sciences",
+      "startDate": "2021-01-01"
+    },
+    {
+      "institution": "CINVESTAV Unidad Mérida",
+      "studyType": "M.Sc. in Sciences",
+      "endDate": "2014-12-31"
+    },
+    {
+      "institution": "Universidad Autónoma de Coahuila (UAdeC)",
+      "studyType": "B.S. in Chemical Engineering",
+      "endDate": "2009-12-31"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Google AI Professional Certificate (7-Course Sequence)",
+      "issuer": "Google / Coursera",
+      "date": "2026-07-01"
+    },
+    {
+      "name": "Analyze Data to Answer Questions (Data Analytics)",
+      "issuer": "Google / Coursera",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "AI and Productivity",
+      "issuer": "Santander Open Academy",
+      "date": "2025-01-01"
+    },
+    {
+      "name": "HACCP System Certification",
+      "issuer": "Secretaría de Salud del Estado de Nuevo León",
+      "date": "2025-02-01"
+    },
+    {
+      "name": "Intro to Programming",
+      "issuer": "Kaggle",
+      "date": "2023-02-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "keywords": [
+        "Python",
+        "SPSS",
+        "Data Analytics",
+        "Analytical Instrumentation",
+        "Quality Assurance (QA/QC)"
+      ]
+    },
+    {
+      "name": "Core Competencies",
+      "keywords": [
+        "Cross-functional Team Leadership",
+        "Effective Communication",
+        "Adaptability",
+        "Proactive Problem Solving"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "C1 (Full Professional Proficiency)"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    }
+  ]
+}
