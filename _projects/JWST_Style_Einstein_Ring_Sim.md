@@ -7,7 +7,6 @@ category: "Physics & Complex Systems"
 github: https://github.com/Pablo-Santana-MX/jwst-einstein-ring-simulation
 img: assets/img/einstein_ring_thumb.jpg
 ---
-
 <div align="center">
   <a href="https://github.com/Pablo-Santana-MX/jwst-einstein-ring-simulation">
     <img src="https://img.shields.io/badge/GitHub-Repository_&_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
