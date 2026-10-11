@@ -17,7 +17,7 @@ img: assets/img/einstein_ring_thumb.jpg
   <img src="https://img.shields.io/badge/Lenstronomy-SIE_Physics-2b2d42?style=for-the-badge&logo=python&logoColor=white" alt="Lenstronomy" />
 
   <br><br>
-  <img src="assets/jwst_einstein_ring_preview.png" width="900" alt="Synthetic Einstein Ring Preview" />
+  <img src="assets/img/jwst_einstein_ring_preview.png" width="900" alt="Synthetic Einstein Ring Preview" />
   <p><em>Rendered preview: Synthetic JWST/NIRCam multiband composite showing the "Cosmic Horseshoe" strong lensing configuration.</em></p>
 </div>
 
